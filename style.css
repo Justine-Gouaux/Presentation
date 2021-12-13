@@ -42,6 +42,7 @@ header {
     background-color: whitesmoke;
     color: var(--main-color);
     height: fit-content;
+    z-index: 1;
 }
 
 ul img {
@@ -393,6 +394,7 @@ a.visible{
     display: inline;
     top: 0;
     visibility: visible;
+    z-index: 0;
 }
 
 /* FOOTER */
