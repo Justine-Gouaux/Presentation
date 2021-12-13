@@ -378,6 +378,13 @@ main img {
     width: 30%;
 }
 
+@media (max-width:767px){
+    main img {
+        width: 80%;
+    }
+}
+
+
 
 ul ul {
     list-style-type: right-arrow;
